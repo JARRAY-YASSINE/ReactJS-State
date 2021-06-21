@@ -1,0 +1,30 @@
+
+.list{
+  list-style-type:none;
+  display: flex;
+  flex-direction: column;
+  align-items:flex-start;
+  font-family: 'Lemonada', cursive;
+  font-size: 25px;
+  font-weight: lighter;
+  padding-top: 1%;
+}
+
+.page{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 8%;
+}
+
+.img{
+  border-radius: 20px;
+  box-shadow: 10px 10px 5px grey;
+}
+.timer{
+  display: flex;
+  justify-content: center;
+  color: rgb(42, 42, 75);
+  font-size: 40px;
+}
+
